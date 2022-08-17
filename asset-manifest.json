@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/css/main.986e7dbe.chunk.css",
-    "main.js": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/main.54783ebe.chunk.js",
-    "main.js.map": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/main.54783ebe.chunk.js.map",
-    "runtime-main.js": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/runtime-main.6796a6ae.js",
-    "runtime-main.js.map": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/runtime-main.6796a6ae.js.map",
-    "static/js/2.0e683e73.chunk.js": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js",
-    "static/js/2.0e683e73.chunk.js.map": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js.map",
-    "index.html": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/index.html",
-    "static/css/main.986e7dbe.chunk.css.map": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/css/main.986e7dbe.chunk.css.map",
-    "static/js/2.0e683e73.chunk.js.LICENSE.txt": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js.LICENSE.txt",
-    "static/media/SQUARE-BR-TIGHT.997181bd.png": "https://ryan-whittingham-v1.github.io/csb-ilq1t2/static/media/SQUARE-BR-TIGHT.997181bd.png"
+    "main.css": "https://.github.io/csb-ilq1t2/static/css/main.986e7dbe.chunk.css",
+    "main.js": "https://.github.io/csb-ilq1t2/static/js/main.21e93ec4.chunk.js",
+    "main.js.map": "https://.github.io/csb-ilq1t2/static/js/main.21e93ec4.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ilq1t2/static/js/runtime-main.8434f7b3.js",
+    "runtime-main.js.map": "https://.github.io/csb-ilq1t2/static/js/runtime-main.8434f7b3.js.map",
+    "static/js/2.0e683e73.chunk.js": "https://.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js",
+    "static/js/2.0e683e73.chunk.js.map": "https://.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js.map",
+    "index.html": "https://.github.io/csb-ilq1t2/index.html",
+    "static/css/main.986e7dbe.chunk.css.map": "https://.github.io/csb-ilq1t2/static/css/main.986e7dbe.chunk.css.map",
+    "static/js/2.0e683e73.chunk.js.LICENSE.txt": "https://.github.io/csb-ilq1t2/static/js/2.0e683e73.chunk.js.LICENSE.txt",
+    "static/media/SQUARE-BR-TIGHT.997181bd.png": "https://.github.io/csb-ilq1t2/static/media/SQUARE-BR-TIGHT.997181bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6796a6ae.js",
+    "static/js/runtime-main.8434f7b3.js",
     "static/js/2.0e683e73.chunk.js",
     "static/css/main.986e7dbe.chunk.css",
-    "static/js/main.54783ebe.chunk.js"
+    "static/js/main.21e93ec4.chunk.js"
   ]
 }
